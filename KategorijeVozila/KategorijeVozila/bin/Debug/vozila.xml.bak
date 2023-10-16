@@ -1,0 +1,13 @@
+<Vozila>
+  <vozilo brojKotaca="4" godProiz="2011" model="Porshe" kategorija="Automobil">
+  </vozilo>
+  <vozilo brojKotaca="6" godProiz="2012" model="Tesla" kategorija="Kamion">
+  </vozilo>
+  <vozilo brojKotaca="4" godProiz="4" model="Astra" kategorija="Automobil" />
+  <vozilo brojKotaca="8" godProiz="1992" model="Astra" kategorija="Kamion" />
+  <vozilo brojKotaca="6" godProiz="1992" model="Astra" kategorija="Kamion" />
+  <vozilo brojKotaca="4" godProiz="4" model="Astra" kategorija="Automobil" />
+  <vozilo brojKotaca="4" godProiz="4" model="Citroen" kategorija="Automobil" />
+  <vozilo brojKotaca="2" godProiz="123" model="Asadas" kategorija="Motocikl" />
+  <vozilo brojKotaca="4" godProiz="1232131" model="Asadasdasd" kategorija="Automobil" />
+</Vozila>
